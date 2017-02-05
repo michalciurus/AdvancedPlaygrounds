@@ -75,3 +75,5 @@ extension MisunderstoodPerson {
 
 //So `sayHi` is not really overriden in terms of table dispatch
 greetings(person: MisunderstoodPerson()) // prints 'Hello'
+
+//https://www.raizlabs.com/dev/2016/12/swift-method-dispatch/
